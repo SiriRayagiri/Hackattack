@@ -1,0 +1,30 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.form-signin {
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.form-signin .form-floating {
+    margin-bottom: 10px;
+}
+
+.form-signin button {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.form-signin button:hover {
+    background-color: #0056b3;
+}
+
+.form-check-label {
+    font-size: 0.9rem;
+}
